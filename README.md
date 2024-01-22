@@ -18,9 +18,9 @@
 
 ## 💻Problem Solving/⚔️Competitive Programming ##
 ### 💻BOJ/solved.ac ###
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=starbow)](https://solved.ac/starbow/) <img src="http://mazandi.herokuapp.com/api?handle=starbow&theme=warm"/>
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dqk8632)](https://solved.ac/dqk8632/) <img src="http://mazandi.herokuapp.com/api?handle=dqk8632&theme=warm"/>
 ### ⚔️solved.ac Arena ###
-[![solved.ac](https://solvedac.junah.dev/v1/generate_badge?handle=starbow)](https://solved.ac/profile/starbow/arena)
+[![solved.ac](https://solvedac.junah.dev/v1/generate_badge?handle=dqk8632)](https://solved.ac/profile/dqk8632/arena)
 
 ### ⚔️codeforces ###
 
