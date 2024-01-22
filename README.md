@@ -38,8 +38,6 @@
 
 
 ## 👨‍💻Activity ##
-- 알고리즘 문제 출제
-- 알고리즘 문제 검수
 - SSAFY 10기 (2023.07~ing)
 
 ## 📜Certification ##
