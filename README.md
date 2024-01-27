@@ -10,7 +10,7 @@
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/> 
 
 ### Libraries/Framework ###
-<img src="https://img.shields.io/badge/Jetpack Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Kotlin Coroutines-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Retrofit-3DDC84?style=flat-square&logo=Square&logoColor=white"/> 
 
