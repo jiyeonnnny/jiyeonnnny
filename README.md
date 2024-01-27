@@ -13,7 +13,7 @@ java
 
 ### Libraries/Framework ###
 <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/> 
-<img src="https://img.shields.io/badge/Vue-4FC08D?style=for-the-badge&logo=vue&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Vue-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Retrofit-3DDC84?style=flat-square&logo=Square&logoColor=white"/> 
 
 <img src="https://img.shields.io/badge/Glide-24A47F?style=flat-square&logo=&logoColor=white"/> 
