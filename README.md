@@ -4,7 +4,7 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiyeonnnny&show_icons=true&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiyeonnnny&layout=compact&theme=onedark&langs_count=4)
 
-## ✏️Studying ##
+## Skills  ##
 ### Languages ###
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> 
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/> 
@@ -19,27 +19,12 @@
 <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=SQLite&logoColor=white"/>  
 <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=Bootstrap&logoColor=white"/>
 
-
 ### Tools ###
 <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white"/> <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
 
-## 💻Problem Solving/⚔️Competitive Programming ##
-### 💻BOJ/solved.ac ###
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dqk8632)](https://solved.ac/dqk8632/) <img src="http://mazandi.herokuapp.com/api?handle=dqk8632&theme=warm"/>
-### ⚔️solved.ac Arena ###
-
-
-### ⚔️codeforces ###
-
-### ⚔️AtCoder ###
-
-
 ## 🥇Achievements ##
-
 
 ## 👨‍💻Activity ##
 - SSAFY 10기 (2023.07~ing)
 
 ## 📜Certification ##
-- 정보처리기사 
-- SQLD 
