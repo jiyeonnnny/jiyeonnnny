@@ -20,7 +20,10 @@
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
 
 ### Infra ###
-<img src="https://img.shields.io/badge/docker-2496ED?style=flat-square&logo=docker&logoColor=black"/>
+<img src="https://img.shields.io/badge/docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/jenkins-D24939?style=flat-square&logo=jenkins&logoColor=red"/>
+<img src="https://img.shields.io/badge/s3-569A31?style=flat-square&logo=s3&logoColor=red"/>
+<img src="https://img.shields.io/badge/amazonec2-FF9900?style=flat-square&logo=amazonec2&logoColor=white"/>
 
 ## 🥇Achievements ##
 
