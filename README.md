@@ -22,7 +22,7 @@
 ### Infra ###
 <img src="https://img.shields.io/badge/docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/jenkins-D24939?style=flat-square&logo=jenkins&logoColor=black"/>
-<img src="https://img.shields.io/badge/amazons3-569A31?style=flat-square&logo=s3&logoColor=red"/>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=red"/>
 <img src="https://img.shields.io/badge/amazonec2-FF9900?style=flat-square&logo=EC2&logoColor=white"/>
 
 ## 🥇Achievements ##
