@@ -19,6 +19,9 @@
 ### OS ###
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
 
+### Infra ###
+<img src="https://img.shields.io/badge/docker-2496ED?style=flat-square&logo=docker&logoColor=black"/>
+
 ## 🥇Achievements ##
 
 ## 👨‍💻Activity ##
